@@ -1,0 +1,424 @@
+{
+  "same": [
+    {
+      "offset": [
+        21,
+        23
+      ],
+      "sent_id": 0,
+      "trigger": "驾驶",
+      "event_id": 101,
+      "highlight": true,
+      "event_type": "违章驾驶"
+    },
+    {
+      "offset": [
+        126,
+        128
+      ],
+      "sent_id": 0,
+      "trigger": "死亡",
+      "event_id": 112,
+      "highlight": true,
+      "event_type": "死亡"
+    },
+    {
+      "offset": [
+        1,
+        3
+      ],
+      "sent_id": 1,
+      "trigger": "鉴定",
+      "event_id": 13,
+      "highlight": true,
+      "event_type": "鉴定"
+    },
+    {
+      "offset": [
+        19,
+        21
+      ],
+      "sent_id": 1,
+      "trigger": "骨折",
+      "event_id": 113,
+      "highlight": true,
+      "event_type": "受伤"
+    },
+    {
+      "offset": [
+        29,
+        31
+      ],
+      "sent_id": 1,
+      "trigger": "挫伤",
+      "event_id": 113,
+      "highlight": true,
+      "event_type": "受伤"
+    },
+    {
+      "offset": [
+        41,
+        43
+      ],
+      "sent_id": 1,
+      "trigger": "死亡",
+      "event_id": 112,
+      "highlight": true,
+      "event_type": "死亡"
+    },
+    {
+      "offset": [
+        22,
+        24
+      ],
+      "sent_id": 2,
+      "trigger": "报案",
+      "event_id": 12,
+      "highlight": true,
+      "event_type": "报警/报案"
+    },
+    {
+      "offset": [
+        15,
+        17
+      ],
+      "sent_id": 3,
+      "trigger": "通知",
+      "event_id": 39,
+      "highlight": true,
+      "event_type": "通知/提醒"
+    },
+    {
+      "offset": [
+        29,
+        31
+      ],
+      "sent_id": 3,
+      "trigger": "接受",
+      "event_id": 51,
+      "highlight": true,
+      "event_type": "同意/接受"
+    },
+    {
+      "offset": [
+        37,
+        39
+      ],
+      "sent_id": 3,
+      "trigger": "供述",
+      "event_id": 3,
+      "highlight": true,
+      "event_type": "供述"
+    }
+  ],
+  "content": [
+    {
+      "tokens": [
+        "2016",
+        "年",
+        "9",
+        "月",
+        "19",
+        "日",
+        "16",
+        "时许",
+        "，",
+        "被告人",
+        "何小超",
+        "驾驶",
+        "农用",
+        "拖拉机",
+        "至",
+        "富源县",
+        "营",
+        "上",
+        "镇",
+        "宽",
+        "塘",
+        "村委会",
+        "荣运",
+        "砖厂",
+        "拉砖",
+        "，",
+        "停车",
+        "时",
+        "已知",
+        "车辆",
+        "制动",
+        "系统",
+        "存在",
+        "问题",
+        "，",
+        "未",
+        "按规定",
+        "操作",
+        "，",
+        "也",
+        "没有",
+        "采取",
+        "积极",
+        "保护措施",
+        "，",
+        "致使",
+        "车辆",
+        "后",
+        "倒",
+        "挤压",
+        "到",
+        "正在",
+        "装砖",
+        "的",
+        "男性",
+        "成年",
+        "工人",
+        "“",
+        "毛",
+        "胡子",
+        "”",
+        "（",
+        "化名",
+        "，",
+        "真实",
+        "姓名",
+        "不",
+        "清",
+        "）",
+        "，",
+        "导致",
+        "“",
+        "毛",
+        "胡子",
+        "”",
+        "死亡"
+      ],
+      "sentence": "2016年9月19日16时许，被告人何小超驾驶农用拖拉机至富源县营上镇宽塘村委会荣运砖厂拉砖，停车时已知车辆制动系统存在问题，未按规定操作，也没有采取积极保护措施，致使车辆后倒挤压到正在装砖的男性成年工人“毛胡子”（化名，真实姓名不清），导致“毛胡子”死亡"
+    },
+    {
+      "tokens": [
+        "经",
+        "鉴定",
+        "，",
+        "“",
+        "毛",
+        "胡子",
+        "”",
+        "系",
+        "钝性",
+        "外力",
+        "致",
+        "双侧",
+        "肋骨",
+        "骨折",
+        "、",
+        "双",
+        "肺",
+        "后侧",
+        "广泛性",
+        "挫伤",
+        "、",
+        "肝脏",
+        "破裂",
+        "失血性",
+        "休克",
+        "死亡"
+      ],
+      "sentence": "经鉴定，“毛胡子”系钝性外力致双侧肋骨骨折、双肺后侧广泛性挫伤、肝脏破裂失血性休克死亡"
+    },
+    {
+      "tokens": [
+        "案发",
+        "当天",
+        "，",
+        "何小超",
+        "电话",
+        "向",
+        "富源县",
+        "公安局",
+        "营",
+        "上",
+        "派出所",
+        "报案"
+      ],
+      "sentence": "案发当天，何小超电话向富源县公安局营上派出所报案"
+    },
+    {
+      "tokens": [
+        "2016",
+        "年",
+        "9",
+        "月",
+        "21",
+        "日经",
+        "公安机关",
+        "通知",
+        "，",
+        "被告人",
+        "何小超",
+        "到",
+        "公安机关",
+        "接受",
+        "调查",
+        "，",
+        "并",
+        "如实",
+        "供述",
+        "其",
+        "犯罪事实"
+      ],
+      "sentence": "2016年9月21日经公安机关通知，被告人何小超到公安机关接受调查，并如实供述其犯罪事实"
+    }
+  ],
+  "different": [
+    {
+      "annotator1": {
+        "offset": [
+          34,
+          36
+        ],
+        "sent_id": 1,
+        "trigger": "破裂",
+        "event_id": 113,
+        "highlight": true,
+        "event_type": "受伤"
+      },
+      "annotator2": {
+        "offset": [
+          34,
+          36
+        ],
+        "sent_id": 1,
+        "trigger": "破裂",
+        "event_id": 118,
+        "highlight": true,
+        "event_type": "受损"
+      }
+    }
+  ],
+  "labelData": {
+    "event": [
+      {
+        "offset": [
+          21,
+          23
+        ],
+        "sent_id": 0,
+        "trigger": "驾驶",
+        "event_id": 101,
+        "highlight": true,
+        "event_type": "违章驾驶"
+      },
+      {
+        "offset": [
+          126,
+          128
+        ],
+        "sent_id": 0,
+        "trigger": "死亡",
+        "event_id": 112,
+        "highlight": true,
+        "event_type": "死亡"
+      },
+      {
+        "offset": [
+          1,
+          3
+        ],
+        "sent_id": 1,
+        "trigger": "鉴定",
+        "event_id": 13,
+        "highlight": true,
+        "event_type": "鉴定"
+      },
+      {
+        "offset": [
+          19,
+          21
+        ],
+        "sent_id": 1,
+        "trigger": "骨折",
+        "event_id": 113,
+        "highlight": true,
+        "event_type": "受伤"
+      },
+      {
+        "offset": [
+          29,
+          31
+        ],
+        "sent_id": 1,
+        "trigger": "挫伤",
+        "event_id": 113,
+        "highlight": true,
+        "event_type": "受伤"
+      },
+      {
+        "offset": [
+          34,
+          36
+        ],
+        "sent_id": 1,
+        "trigger": "破裂",
+        "event_id": 113,
+        "highlight": true,
+        "event_type": "受伤"
+      },
+      {
+        "offset": [
+          41,
+          43
+        ],
+        "sent_id": 1,
+        "trigger": "死亡",
+        "event_id": 112,
+        "highlight": true,
+        "event_type": "死亡"
+      },
+      {
+        "offset": [
+          22,
+          24
+        ],
+        "sent_id": 2,
+        "trigger": "报案",
+        "event_id": 12,
+        "highlight": true,
+        "event_type": "报警/报案"
+      },
+      {
+        "offset": [
+          15,
+          17
+        ],
+        "sent_id": 3,
+        "trigger": "通知",
+        "event_id": 39,
+        "highlight": true,
+        "event_type": "通知/提醒"
+      },
+      {
+        "offset": [
+          29,
+          31
+        ],
+        "sent_id": 3,
+        "trigger": "接受",
+        "event_id": 51,
+        "highlight": true,
+        "event_type": "同意/接受"
+      },
+      {
+        "offset": [
+          37,
+          39
+        ],
+        "sent_id": 3,
+        "trigger": "供述",
+        "event_id": 3,
+        "highlight": true,
+        "event_type": "供述"
+      }
+    ],
+    "warning": [],
+    "3rd-annotation": []
+  }
+}

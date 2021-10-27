@@ -1,0 +1,19 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "aaa": "hello world"
+  }, 
+  "headers": {
+    "Accept-Encoding": "identity", 
+    "Content-Length": "15", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "User-Agent": "Python-urllib/3.8", 
+    "X-Amzn-Trace-Id": "Root=1-61711adb-632ca4f83ed43ef058a07a58"
+  }, 
+  "json": null, 
+  "origin": "61.153.4.74", 
+  "url": "https://httpbin.org/post"
+}
